@@ -1,0 +1,3 @@
+module:org.freeinternals.formatelf
+org.freeinternals.biv.plugin
+org.freeinternals.format.elf

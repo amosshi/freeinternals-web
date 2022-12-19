@@ -1,0 +1,4 @@
+module:org.freeinternals.formatpdf
+org.freeinternals.biv.plugin
+org.freeinternals.format.pdf
+org.freeinternals.format.pdf.basicobj

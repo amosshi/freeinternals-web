@@ -1,0 +1,7 @@
+module:org.freeinternals.formatjpeg
+org.freeinternals.biv.plugin
+org.freeinternals.format.jpeg
+org.freeinternals.format.jpeg.icc
+org.freeinternals.format.jpeg.ps
+org.freeinternals.format.jpeg.tiff
+org.freeinternals.format.jpeg.xmp

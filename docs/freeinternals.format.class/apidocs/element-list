@@ -1,0 +1,6 @@
+module:org.freeinternals.formatclass
+org.freeinternals.format.classfile
+org.freeinternals.format.classfile.attribute
+org.freeinternals.format.classfile.attribute.aspectj
+org.freeinternals.format.classfile.attribute.scala
+org.freeinternals.format.classfile.constant

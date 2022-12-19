@@ -1,0 +1,3 @@
+module:org.freeinternals.commonlib
+org.freeinternals.commonlib.core
+org.freeinternals.commonlib.ui

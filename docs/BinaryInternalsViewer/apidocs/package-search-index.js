@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"org.freeinternals.biv","l":"org.freeinternals.biv"},{"m":"org.freeinternals.biv","l":"org.freeinternals.biv.binaryviewer"},{"m":"org.freeinternals.biv","l":"org.freeinternals.biv.plugin"}]
